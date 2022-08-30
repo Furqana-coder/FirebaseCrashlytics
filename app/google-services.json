@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065719847618",
+    "project_id": "adept-comfort-342010",
+    "storage_bucket": "adept-comfort-342010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065719847618:android:c9442318893b448c17795b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065719847618-qlv1018dlgjkp8rcvg8qhlnrk6ls1dti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCamhRjSGRO3t_Va_7yG1439Ez8Erx0l-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065719847618-qlv1018dlgjkp8rcvg8qhlnrk6ls1dti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
